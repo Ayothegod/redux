@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <p>Redux toolkit hrllo jksjksd</p>
+      <p>Redux toolkit hrllo jksjksd ksjksdjk</p>
     </div>
   )
 }
